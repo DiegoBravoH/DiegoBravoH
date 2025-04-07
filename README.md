@@ -1,3 +1,10 @@
+<!-- Fake VS Code header -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-DiegoBravoH-blue?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</div>
+
+
+
 # 👋 Hi there, I’m Diego Bravo
 
 - 🧠 I’m a PhD student working at the intersection of **AI and medical imaging**, with a focus on **endoscopy** and improving the **quality of gastrointestinal procedures**.
