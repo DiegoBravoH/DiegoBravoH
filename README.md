@@ -15,6 +15,12 @@
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I built a tool to track **inspection time** and **photodocumentation quality** during upper GI endoscopy — now used to train physicians in real-world settings!
 
+<!-- Optional GitHub stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoBravoH&show_icons=true&theme=tokyonight" width="50%" />
+</p>
+
+
 <!---
 DiegoBravoH/DiegoBravoH is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
