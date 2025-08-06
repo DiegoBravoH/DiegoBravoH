@@ -4,17 +4,18 @@
 </p>
 
 ```js
-// Diego Bravo - PhD Student in AI + Medical Imaging
+// Diego Bravo — PhD Student in AI + Medical Imaging
+
 const interests = [
-  "Self-Supervised Learning",
-  "Transformers for Endoscopy",
-  "Surgical Data Science",
-  "Automated Quality Assessment"
+  "🤖 Self-Supervised Learning",
+  "🔬 Transformers for Endoscopy",
+  "🏥 Surgical Data Science",
+  "📊 Automated Quality Assessment"
 ];
 
 const contact = {
-  email: "diegofbravoh@gmail.com",
-  linkedin: "https://www.linkedin.com/in/ingdiegobravo"
+  📧 email: "diegofbravoh@gmail.com",
+  🔗 linkedin: "https://www.linkedin.com/in/ingdiegobravo"
 };
 
-const funFact = "Built a tool that tracks inspection time & photo-documentation during upper GI endoscopy 🚀";
+const funFact = "🚀 Built a tool that tracks inspection time & photo-documentation during upper GI endoscopy.";
