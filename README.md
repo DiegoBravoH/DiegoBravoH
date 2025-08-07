@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Diego Bravo</h1>
-<h3 align="center">PhD Student | AI Researcher | Specialist in Endoscopic Image Analysis and Machine Learning | Innovating Gastrointestinal Diagnostics | Passionate about Medical Imaging and Continuous Learning</h3>
+<p align="center">
+  <a href="https://github.com/DiegoBravoH">
+    <img alt="Diego Bravo Higuera — typing intro"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2000&pause=700&multiline=true&width=1100&height=130&lines=Diego%20Bravo%20Higuera%20%F0%9F%91%8B;PhD%20Student%20%7C%20AI%20Researcher;Expert%20in%20Endoscopy%20Image%20Analysis%20%26%20ML%20%7C%20Innovating%20Gastrointestinal%20Diagnostics%20%7C%20Medical%20Imaging%20%7C%20Enthusiastic%20Learner" />
+  </a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegobravoh" alt="diegobravoh" /></a> </p>
 
