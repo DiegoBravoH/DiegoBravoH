@@ -6,8 +6,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DiegoBravoH" alt="DiegoBravoH" /></a> </p>
-
 - 🔭 I’m currently working on [Auditory in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
 
 - 🌱 I’m currently learning **Advanced AI techniques, Medical image analysis, Research methodologies**
