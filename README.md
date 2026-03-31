@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiegoBravoH](https://github.com/DiegoBravoH)
 
-- 📝 I regularly publish research articles in venues such as the [MICCAI Conference, IEEE ISBI, and Nature Scientific Data.](MICCAI Conference, IEEE ISBI, and Nature Scientific Data.)
+- 📝 I regularly publish research articles in venues such as the [Conferences: MICCAI, IEEE ISBI - Jornal: Nature Scientific Data, TMI.](MICCAI Conference, IEEE ISBI, and Nature Scientific Data.)
 
 - 💬 Ask me about **AI, medical image analysis, and how machine learning is transforming**
 
