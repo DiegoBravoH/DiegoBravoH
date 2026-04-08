@@ -5,22 +5,21 @@
   </a>
 </p>
 
+- 🔭 I’m currently working on [EndoAudit: Auditory in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
 
-- 🔭 I’m currently working on [Auditory in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
+- 🌱 I’m currently learning **advanced AI techniques, medical image analysis, and research methodologies**
 
-- 🌱 I’m currently learning **Advanced AI techniques, Medical image analysis, Research methodologies**
+- 🔬 I have worked on the [GastroHUN database](https://github.com/Cimalab-unal/GastroHUN.git)
 
-- 🔭 I’m worked on [GastroHUN database](https://github.com/Cimalab-unal/GastroHUN.git)
+- 👨‍💻 All my projects are available at [github.com/DiegoBravoH](https://github.com/DiegoBravoH)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DiegoBravoH](https://github.com/DiegoBravoH)
+- 📝 I regularly publish research articles in venues such as **MICCAI, IEEE ISBI, Nature Scientific Data, and IEEE TMI**
 
-- 📝 I regularly publish research articles in venues such as the [Conferences: MICCAI, IEEE ISBI - Jornal: Nature Scientific Data, TMI.](MICCAI Conference, IEEE ISBI, and Nature Scientific Data.)
+- 💬 Ask me about **AI, medical image analysis, and machine learning in healthcare**
 
-- 💬 Ask me about **AI, medical image analysis, and how machine learning is transforming**
+- 📫 How to reach me: [diegobravoh.github.io](https://diegobravoh.github.io/)
 
-- 📫 How to reach me **https://diegobravoh.github.io/**
-
-- ⚡ Fun fact **I think is funny AI dissemination**
+- ⚡ Fun fact: **I enjoy making AI accessible and fun to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
