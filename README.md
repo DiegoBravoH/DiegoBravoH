@@ -5,21 +5,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [EndoAudit: Auditory in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
-
-- 🌱 I’m currently learning **advanced AI techniques, medical image analysis, and research methodologies**
-
-- 🔬 I have worked on the [GastroHUN database](https://github.com/Cimalab-unal/GastroHUN.git)
-
-- 👨‍💻 All my projects are available at [github.com/DiegoBravoH](https://github.com/DiegoBravoH)
-
-- 📝 I regularly publish research articles in venues such as **MICCAI, IEEE ISBI, Nature Scientific Data, and IEEE TMI**
-
-- 💬 Ask me about **AI, medical image analysis, and machine learning in healthcare**
-
-- 📫 How to reach me: [diegobravoh.github.io](https://diegobravoh.github.io/)
-
-- ⚡ Fun fact: **I enjoy making AI accessible and fun to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,6 +47,23 @@
        width="40" />
 </a>
 </p>
+
+- 🔭 I’m currently working on [EndoAudit: Auditory in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
+
+- 🌱 I’m currently learning **advanced AI techniques, medical image analysis, and research methodologies**
+
+- 🔬 I have worked on the [GastroHUN database](https://github.com/Cimalab-unal/GastroHUN.git)
+
+- 👨‍💻 All my projects are available at [github.com/DiegoBravoH](https://github.com/DiegoBravoH)
+
+- 📝 I regularly publish research articles in venues such as **MICCAI, IEEE ISBI, Nature Scientific Data, and IEEE TMI**
+
+- 💬 Ask me about **AI, medical image analysis, and machine learning in healthcare**
+
+- 📫 How to reach me: [diegobravoh.github.io](https://diegobravoh.github.io/)
+
+- ⚡ Fun fact: **I enjoy making AI accessible and fun to learn**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
