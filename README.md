@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DiegoBravoH">
-    <img alt="Diego Bravo Higuera — typing intro"
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2000&pause=700&multiline=true&width=1100&height=130&lines=Diego%20Bravo%20Higuera%20%F0%9F%91%8B;PhD%20Student%20%7C%20AI%20Researcher;Expert%20in%20Endoscopy%20Image%20Analysis%20%26%20ML%20%7C%20Innovating%20Gastrointestinal%20Diagnostics%20%7C%20Medical%20Imaging%20%7C%20Enthusiastic%20Learner" />
-  </a>
-</p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ingdiegobravo" target="_blank" rel="noopener noreferrer">
@@ -46,6 +38,15 @@
        height="30" 
        width="40" />
 </a>
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/DiegoBravoH">
+    <img alt="Diego Bravo Higuera — typing intro"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2000&pause=700&multiline=true&width=1100&height=130&lines=Diego%20Bravo%20Higuera%20%F0%9F%91%8B;PhD%20Student%20%7C%20AI%20Researcher;Expert%20in%20Endoscopy%20Image%20Analysis%20%26%20ML%20%7C%20Innovating%20Gastrointestinal%20Diagnostics%20%7C%20Medical%20Imaging%20%7C%20Enthusiastic%20Learner" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on [EndoAudit: Auditory in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
