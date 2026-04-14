@@ -54,7 +54,7 @@ I’m available for:
        height="30" 
        width="40" />
 </a>
-<\p>
+</p>
 
 <p align="center">
   <a href="https://github.com/DiegoBravoH">
