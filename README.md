@@ -44,6 +44,17 @@
 <p>
 I speak at conferences, company events, and workshops about production ML systems, GenAI evaluation, metrics, and platform thinking. My talks combine architectures, real-world applications, and frameworks teams can apply immediately.
 </p>
+<h2 align="left">Book me for your event:</h2>
+<p align="left">
+I’m available for:
+<a href="https://www.linkedin.com/in/ingdiegobravo" target="_blank" rel="noopener noreferrer">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="ingdiegobravo" 
+       height="30" 
+       width="40" />
+</a>
+<\p>
 
 <p align="center">
   <a href="https://github.com/DiegoBravoH">
