@@ -1,39 +1,20 @@
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ingdiegobravo" target="_blank" rel="noopener noreferrer">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="LinkedIn" 
-       height="30" 
-       width="40" />
+
+<p align="left" style="white-space: nowrap;">
+<a href="https://www.linkedin.com/in/ingdiegobravo" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://github.com/DiegoBravoH" target="_blank" rel="noopener noreferrer">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-       alt="GitHub" 
-       height="30" 
-       width="40" />
+<a href="https://github.com/DiegoBravoH" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
-<a href="https://scholar.google.com/citations?user=S47_4IcAAAAJ&hl" target="_blank" rel="noopener noreferrer">
-  <img align="center" 
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" 
-       alt="Google Scholar" 
-       height="30" 
-       width="40" />
+<a href="https://scholar.google.com/citations?user=S47_4IcAAAAJ&hl" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" height="30" width="40" />
 </a>
-<a href="https://www.researchgate.net/profile/Diego-Bravo-9" target="_blank" rel="noopener noreferrer">
-  <img align="center" 
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" 
-       alt="ResearchGate" 
-       height="30" 
-       width="40" />
+<a href="https://www.researchgate.net/profile/Diego-Bravo-9" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/researchgate.svg" height="30" width="40" />
 </a>
-<a href="https://orcid.org/0000-0003-1957-1615" target="_blank" rel="noopener noreferrer">
-  <img align="center" 
-       src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/orcid.svg" 
-       alt="ORCID" 
-       height="30" 
-       width="40" />
+<a href="https://orcid.org/0000-0003-1957-1615" target="_blank" rel="noopener noreferrer" style="display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/orcid.svg" height="30" width="40" />
 </a>
 </p>
 
