@@ -39,7 +39,7 @@
        width="40" />
 </a>
 </p>
-
+<h4 align="left">MICCAI Member, IEEE Graduate Student Member</h3>
 <h3 align="left">Speaking & Media Kit:</h3>
 <p>
 I speak at conferences, company events, and workshops about production ML systems, GenAI evaluation, metrics, and platform thinking. My talks combine architectures, real-world applications, and frameworks teams can apply immediately.
