@@ -17,7 +17,17 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/orcid.svg" height="30"/>
   </a>
 </p>
-<h4 align="left">MICCAI Member | IEEE Graduate Student Member</h4>
+<h4 align="left">
+  🌍 Research Community: 
+  <a href="https://www.miccai.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/MICCAI-logo.png" height="20" style="vertical-align:middle;"/>
+  </a>
+  MICCAI Member |
+  <a href="https://www.ieee.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" height="20" style="vertical-align:middle;"/>
+  </a>
+  IEEE Graduate Student ⚡
+</h4>
 
 <p align="center">
   <a href="https://github.com/DiegoBravoH" target="_blank" rel="noopener noreferrer">
