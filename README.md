@@ -20,7 +20,7 @@
 <h4 align="left">
   🌍 Research Community: 
   <a href="https://www.miccai.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/MICCAI-logo.png" height="20" style="vertical-align:middle;"/>
+    <img src="https://miccai.org/index.php/assets/Uploads/_resampled/ResizedImageWzYwMCwyNDdd/Logo-reveal-image.png" height="20" style="vertical-align:middle;"/>
   </a>
   MICCAI Member |
   <a href="https://www.ieee.org/" target="_blank">
