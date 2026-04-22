@@ -17,8 +17,9 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/orcid.svg" height="30"/>
   </a>
 </p>
+
 <h4 align="left">
-  🌍 Research Community: 
+  🌍 Research Community:
   <a href="https://www.miccai.org/" target="_blank">
     <img src="https://miccai.org/index.php/assets/Uploads/_resampled/ResizedImageWzYwMCwyNDdd/Logo-reveal-image.png" height="20" style="vertical-align:middle;"/>
   </a>
@@ -38,19 +39,19 @@
 
 - 🔭 I’m currently working on [EndoAudit: Auditing in Endoscopy](https://github.com/Cimalab-unal/EndoAudit.git)
 
-- 🌱 I’m currently learning **advanced AI techniques, medical image analysis, and research methodologies**
+- 🌱 I’m currently expanding my knowledge in **advanced AI techniques, medical image analysis, and research methodologies**
 
 - 🔬 I have also contributed to the [GastroHUN database](https://github.com/Cimalab-unal/GastroHUN.git)
 
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/DiegoBravoH)
+- 👨‍💻 Explore more of my work on [GitHub](https://github.com/DiegoBravoH)
 
-- 📝 My research interests include **AI, medical image analysis, multimodal learning, and machine learning for healthcare**
+- 📝 My research interests include **artificial intelligence, medical image analysis, multimodal learning, and machine learning for healthcare**
 
-- 💬 Ask me about **medical AI, endoscopy image analysis, and deep learning in healthcare**
+- 💬 Ask me about **medical AI, endoscopy image analysis, and deep learning for healthcare**
 
 - 📫 Learn more at [diegobravoh.github.io](https://diegobravoh.github.io/)
 
-- ⚡ Fun fact: **I enjoy making AI accessible, practical, and engaging to learn**
+- ⚡ Fun fact: **I enjoy making AI more accessible, practical, and engaging**
 
 <h3 align="left">Languages and Tools:</h3>
 
